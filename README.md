@@ -1,8 +1,11 @@
 # NOTEBOOK
 
-El repositorio notebook contiene mis apuntes acerca de las herramientas y tecnologías que he ido aprendiendo y prácticando.
+El repositorio notebook contiene mis notas, practicas, cheatshets acerca de las herramientas y tecnologías que he ido aprendiendo.
 
 ## Contenido
 
-- Linux
-- Python
+- [[notes/linux.md|Linux y Bash]]
+
+## Practica
+
+- 
